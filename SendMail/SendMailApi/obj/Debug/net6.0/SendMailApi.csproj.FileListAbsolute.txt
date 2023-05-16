@@ -1,0 +1,12 @@
+D:\Learning\MinimalApi\SendMail\SendMailApi\bin\Debug\net6.0\SendMailApi.deps.json
+D:\Learning\MinimalApi\SendMail\SendMailApi\bin\Debug\net6.0\SendMailApi.dll
+D:\Learning\MinimalApi\SendMail\SendMailApi\bin\Debug\net6.0\SendMailApi.pdb
+D:\Learning\MinimalApi\SendMail\SendMailApi\obj\Debug\net6.0\SendMailApi.csproj.AssemblyReference.cache
+D:\Learning\MinimalApi\SendMail\SendMailApi\obj\Debug\net6.0\SendMailApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\MinimalApi\SendMail\SendMailApi\obj\Debug\net6.0\SendMailApi.AssemblyInfoInputs.cache
+D:\Learning\MinimalApi\SendMail\SendMailApi\obj\Debug\net6.0\SendMailApi.AssemblyInfo.cs
+D:\Learning\MinimalApi\SendMail\SendMailApi\obj\Debug\net6.0\SendMailApi.csproj.CoreCompileInputs.cache
+D:\Learning\MinimalApi\SendMail\SendMailApi\obj\Debug\net6.0\SendMailApi.dll
+D:\Learning\MinimalApi\SendMail\SendMailApi\obj\Debug\net6.0\refint\SendMailApi.dll
+D:\Learning\MinimalApi\SendMail\SendMailApi\obj\Debug\net6.0\SendMailApi.pdb
+D:\Learning\MinimalApi\SendMail\SendMailApi\obj\Debug\net6.0\ref\SendMailApi.dll
